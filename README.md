@@ -1,7 +1,7 @@
 ## como clonar um repositorio
 
 
-passo a passo:
+1 - passo a passo:
 
 ```bash
 # Navegando até o disco C
@@ -19,6 +19,10 @@ cd /path-repository
 ```
 
 
+## Setup
+
+1 - Baixar VSCode
+2 - Instalar o Git
 ## Minha Empresa
 
-Author: Minha Empresa
+Autor: Minha Empresa
