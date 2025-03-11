@@ -17,3 +17,8 @@ git clone <link-repositório>
 
 cd /path-repository
 ```
+
+
+## Minha Empresa
+
+Author: Minha Empresa
